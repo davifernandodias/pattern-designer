@@ -1,0 +1,15 @@
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\bin\Debug\net10.0\Core.exe
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\bin\Debug\net10.0\Core.deps.json
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\bin\Debug\net10.0\Core.runtimeconfig.json
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\bin\Debug\net10.0\Core.dll
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\bin\Debug\net10.0\Core.pdb
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\Core.AssemblyInfoInputs.cache
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\Core.AssemblyInfo.cs
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\Core.sourcelink.json
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\Core.dll
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\refint\Core.dll
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\Core.pdb
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\Core.genruntimeconfig.cache
+C:\Users\davif\OneDrive\Desktop\Projects\SideProject\study\pattern-designer\Core\obj\Debug\net10.0\ref\Core.dll

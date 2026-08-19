@@ -27,6 +27,7 @@ public class PersonBuilder
 
     public Person Build()
     {
+        if (person.Name == null || person.Age == 0) throw new ArgumentException("Value incorret");
         return person;
     }
 }

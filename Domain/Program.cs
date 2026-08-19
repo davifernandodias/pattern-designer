@@ -1,11 +1,25 @@
 ﻿using Domain.Builder;
 using Domain.Entity;
 
-// use example
-Person p1 = PersonBuilder
-            .Builder()
-            .WithName("Davi Dias")
-            .WithAge(20)
-            .Build();
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Order myOrder = new OrderBuilder()
+                            .WithCustomerName("Davi")
+                            .WithCustomerEmail("davidias@gmail.com")
+                            .WithAddress("Rua 4")
+                            .WithCity("Ribeirão Preto")
+                            .Build();
 
-Console.WriteLine(p1.Name); Console.WriteLine(p1.Age);
+        Console.WriteLine(myOrder.CustomerName);
+        Console.WriteLine(myOrder.PaymentMethod);
+        Console.WriteLine(myOrder.CustomerEmail);
+        Console.WriteLine(myOrder.City);
+        Console.WriteLine(myOrder.Address);
+
+
+
+
+    }
+}
